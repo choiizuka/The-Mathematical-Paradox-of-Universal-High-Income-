@@ -1,3 +1,5 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
 # The-Mathematical-Paradox-of-Universal-High-Income-
 The Mathematical Paradox of "Universal High Income" : 「ユニバーサル・ハイ・インカム」説の数学的矛盾と科学的検証
 
